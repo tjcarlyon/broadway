@@ -1,0 +1,33 @@
+.header {
+  background-color: #333333;
+}
+.nav li {
+  list-style: none;
+  display: inline;
+}
+.jumbotron {
+        background: url(https://s3.amazonaws.com/codecademy-content/projects/broadway/bg.png) no-repeat center center;
+        background-size: cover;
+        height: 800px;
+      }
+
+.btn-main {
+  color: #a9a9a9;
+  border-radius: 5px;
+	border: 1px solid #6495ED;
+	background-color: white;
+  border-color: black;
+  padding: 5px 5px 5px 5px;
+  font-weight: bold;
+  text-decoration: none;
+  
+	}
+.btn-two {
+   color: #a9a9a9;
+ 
+	border: 1px solid #6495ED;
+	background-color: white;
+  border-color: black;
+  padding: 5px 5px 5px 5px;
+  font-weight: bold;
+  text-decoration: none;
